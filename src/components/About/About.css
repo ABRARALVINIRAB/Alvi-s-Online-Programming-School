@@ -1,0 +1,11 @@
+.icon {
+    margin: 20px;
+    padding: 10px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 30px;
+}
+
+.icon:hover {
+    color: rgb(34, 80, 109);
+}

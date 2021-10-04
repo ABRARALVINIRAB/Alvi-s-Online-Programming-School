@@ -1,0 +1,23 @@
+.footer-container {
+    background-color: rgb(175, 223, 224);
+    height: 300px;
+
+
+}
+
+.first-container {
+    margin-top: 30px;
+}
+
+.second-container {
+    margin-top: 30px;
+}
+
+.third-container {
+    margin-top: 30px;
+}
+
+.small {
+    background-color: black;
+    color: rgb(177, 11, 11);
+}
