@@ -8,14 +8,10 @@ const Header = () => {
         <div className="menuBar-container">
             <div className="container">
                 <div className="row">
-                    <div className="col-md-2">
-                        {/* <div className="logo-img">
-                            <img className="w-50" src={logo} alt="" />
-                        </div> */}
-                    </div>
-                    <div className="col-md-10">
+
+                    <div className="col-md-12 ">
                         <div className="menu-container ">
-                            <ul className="d-flex align-items-end justify-content-end">
+                            <ul className=" d-flex justify-content-around ">
                                 <Link to="/home" className="items">
                                     <li>Home</li>
                                 </Link>
