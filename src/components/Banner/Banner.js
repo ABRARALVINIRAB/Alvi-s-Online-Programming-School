@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Header/Header';
 import './Banner.css'
-import video from '../../video/hero-video.mp4'
+
 
 const Banner = () => {
     return (

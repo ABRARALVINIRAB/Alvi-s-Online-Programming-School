@@ -9,7 +9,10 @@ import './Mentor.css'
 const Mentors = () => {
     return (
         <div className='container'>
-            <h1>Top Online Mentors</h1>
+            <div className="header">
+                <h1> Our Top Online Mentors</h1>
+                <h3>A mentor is a person or friend who guides a less experienced person by building trust and modeling positive behaviors</h3>
+            </div>
             <Row xs={1} md={4} className="g-4 mentor-container">
 
                 <Col className="single-card shadow p-3 mb-5 bg-body rounded p-2" >
